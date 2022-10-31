@@ -1,0 +1,1 @@
+Projeto teste com o Expo em TSX.
